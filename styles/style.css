@@ -1,0 +1,60 @@
+.header_div{
+    display:flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+ul{
+    display:flex;
+    justify-content:center;
+    list-style: none;
+}
+header a{
+    text-decoration: none;
+    padding-left: 40px;
+    font-size: 25px;
+}
+.logo{
+    width: 161px;
+    height: 61px;
+}
+.header_div p{
+    padding-left: 60px;
+}
+.header_div img{
+    padding-left: 60px;
+}
+.Childe{
+    color: #827B82;
+}
+.Keqing{
+    color: #827B82;
+}
+.Diluc{
+    color: #827B82;
+}
+.Jean{
+    color: #827B82;
+}
+.chu{
+    background-image: url("../images/image37.png");
+        height:700px;
+            background-repeat:no-repeat;
+            background-attachment:fixed;
+}
+.esh{
+    display: flex;
+    justify-content:flex-start;
+    font-size: 17px;
+}
+.fea{
+    inline-size: 300px;
+}
+.lol{
+    display:inline;
+}
+.red{
+    color:red;
+}
+.blue{
+    color:blue;
+}
